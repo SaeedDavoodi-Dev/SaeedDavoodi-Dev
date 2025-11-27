@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/SaeedDavoodi-Dev
 
-- 💬 Ask me about **Html,css**
+- 💬 Ask me about **Html,css and javaScript**
 
 - 📫 How to reach me **saeeddavodi1684@gmail.com**
 
